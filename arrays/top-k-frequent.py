@@ -3,6 +3,7 @@
 
 Input: nums = [1,1,1,2,2,3], k = 2
 Output: [1,2]
+Approach: Get the frequency dictionary and sort it using the freq(values)(reverse order) and display k values
 
 '''
 from collections import defaultdict
