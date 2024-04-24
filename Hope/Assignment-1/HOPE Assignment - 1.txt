@@ -1,0 +1,28 @@
+4.1.2024
+
+Assignment I
+
+SLIDING WINDOW
+
+1. Given a binary array nums, return the maximum number of consecutive 1's in the array.
+
+   Input: nums = [1,1,0,1,1,1]
+   Output: 3
+   Explanation: The first two digits or the last three digits are consecutive 1s. The maximum number of consecutive 1s is 3.
+
+2. Given a string s and an integer k, return the length of the longest substring of s such that the frequency of each character in this substring is greater than or equal to k.
+   if no such substring exists, return 0.
+
+   Input: s = "aaabb", k = 3
+   Output: 3
+   Explanation: The longest substring is "aaa", as 'a' is repeated 3 times.
+
+3. Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k. A subarray is a contiguous non-empty sequence of elements within an array.
+   
+   Input: nums = [1,2,3], k = 3
+   Output: 2
+
+
+
+
+
